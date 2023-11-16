@@ -7,9 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ArServiceApplication {
 
     public static void main(String[] args) {
-
+        
         SpringApplication.run(ArServiceApplication.class, args);
         System.out.println("test on");
     }
-        
+
 }
