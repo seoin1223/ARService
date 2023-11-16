@@ -10,6 +10,9 @@ public class ArServiceApplication {
         
         SpringApplication.run(ArServiceApplication.class, args);
         System.out.println("test on");
+        System.out.print("w Test");
+    
+
     }
 
 }
