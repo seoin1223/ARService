@@ -12,5 +12,7 @@ public class ArServiceApplication {
         System.out.println("ywy");
         System.out.println("wyw");
         System.out.println("wyw2");
+        System.out.println("wyw3");
+        System.out.println("wyw5");
     }
 }
