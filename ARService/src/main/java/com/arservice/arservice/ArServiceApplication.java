@@ -10,6 +10,7 @@ public class ArServiceApplication {
         SpringApplication.run(ArServiceApplication.class, args);
         System.out.println("seoin1");
         System.out.println("seoin1");
+        System.out.println("seoin1");
         System.out.println("ywy");
         System.out.println("wyw");
         System.out.println("wyw2");
