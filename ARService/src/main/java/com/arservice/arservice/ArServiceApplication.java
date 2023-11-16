@@ -11,6 +11,7 @@ public class ArServiceApplication {
         System.out.println("seoin1");
         System.out.println("seoin1");
         System.out.println("seoin1");
+        System.out.println("seoin1");
         System.out.println("ywy");
         System.out.println("wyw");
         System.out.println("wyw2");
